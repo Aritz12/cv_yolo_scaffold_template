@@ -1,0 +1,17 @@
+certifi==2020.12.5
+click
+Flask
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+numpy
+opencv-python==4.5.1.48
+Werkzeug==1.0.1
+wincertstore==0.2
+black
+flake8
+ipython
+mypy
+pylint
+pytest
+yapf
