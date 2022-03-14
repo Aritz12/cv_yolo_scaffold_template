@@ -31,6 +31,9 @@ DO NOT TOUCH OTHER FILES.
           - yolo.cfg
           - yolo.names
           - yolo.weights <- you will need to upload this yourself after cloning the repo when testing locally
+     - web scraper/
+         - under construction
+
 ### ai.py ###
 Contains functions used by main.py for working with opencv and running the model on uploaded images.
 ### main.py ###

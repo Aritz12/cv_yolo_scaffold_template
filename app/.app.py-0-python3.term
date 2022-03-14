@@ -1,0 +1,12 @@
+Python 3.8.5 (default, May 27 2021, 13:30:53) 
+[GCC 9.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [K>>> python -m flask run[K>>> python -m flask run
+  File "<stdin>", line 1
+    python -m flask run
+              ^
+SyntaxError: invalid syntax
+>>> ePython 3.8.5 (default, May 27 2021, 13:30:53) 
+[GCC 9.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 

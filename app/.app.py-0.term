@@ -1,0 +1,45 @@
+(base) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ pt[K[Kpython -m flask run
+/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/bin/python: No module named flask
+(base) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ activate co[K[K[K[K[K[K[K[K[K[K[Kcod[Knda activate bask[K[K[K[Kcv_basketball_py38
+(cv_basketball_py38) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ python -m flask run
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: off
+Traceback (most recent call last):
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/flask/__main__.py", line 15, in <module>
+    main(as_module=True)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/click/core.py", line 1053, in main
+    rv = self.invoke(ctx)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/click/core.py", line 1659, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/click/core.py", line 1395, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/click/core.py", line 754, in invoke
+    return __callback(*args, **kwargs)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/click/decorators.py", line 84, in new_func
+    return ctx.invoke(f, obj, *args, **kwargs)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/click/core.py", line 754, in invoke
+    return __callback(*args, **kwargs)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/flask/cli.py", line 848, in run_command
+    app = DispatchingApp(info.load_app, use_eager_loading=eager_loading)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/flask/cli.py", line 305, in __init__
+    self._load_unlocked()
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/flask/cli.py", line 330, in _load_unlocked
+    self._app = rv = self.loader()
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/flask/cli.py", line 392, in load_app
+    app = locate_app(self, import_name, None, raise_if_not_found=False)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/miniconda3/envs/cv_basketball_py38/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/projects/627f8f3a-4af4-406b-a539-831119806449/cv_yolo_scaffold_template/app/app.py", line 3, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+(cv_basketball_py38) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ (base) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ 
