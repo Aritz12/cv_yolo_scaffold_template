@@ -1,0 +1,17 @@
+(base) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ cd ..
+(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   .README.md-0.term[m
+	[31mmodified:   app/ai.py[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mapp/.ai.py-0.term[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ git add -A[K[K[K[K[K[K[K[K[K[K(base) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ [K(base) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ 

@@ -1,0 +1,12 @@
+(base) ]0;~/cv_yolo_scaffold_template/app/Web Scraper[01;34m~/cv_yolo_scaffold_template/app/Web Scraper[00m$ ls
+image_scrapper.py
+(base) ]0;~/cv_yolo_scaffold_template/app/Web Scraper[01;34m~/cv_yolo_scaffold_template/app/Web Scraper[00m$ python .i[K[K./[K[K[K[K[K[K[K[K[K./image_scrapper.py
+bash: ./image_scrapper.py: Permission denied
+(base) ]0;~/cv_yolo_scaffold_template/app/Web Scraper[01;34m~/cv_yolo_scaffold_template/app/Web Scraper[00m$ sudo ,/[K[K./impae_c[K[K[K[K[K[Kage[K[K[Kmage_scrapper.py
+[sudo] password for 627f8f3a4af4406ba539831119806449: 
+Sorry, try again.
+[sudo] password for 627f8f3a4af4406ba539831119806449: (base) ]0;~/cv_yolo_scaffold_template/app/Web Scraper[01;34m~/cv_yolo_scaffold_template/app/Web Scraper[00m$ (base) ]0;~/cv_yolo_scaffold_template/app/Web Scraper[01;34m~/cv_yolo_scaffold_template/app/Web Scraper[00m$ ls
+image_scrapper.py
+(base) ]0;~/cv_yolo_scaffold_template/app/Web Scraper[01;34m~/cv_yolo_scaffold_template/app/Web Scraper[00m$ ./image)scra[K[K[K[K[K_scrapper.py
+bash: ./image_scrapper.py: Permission denied
+(base) ]0;~/cv_yolo_scaffold_template/app/Web Scraper[01;34m~/cv_yolo_scaffold_template/app/Web Scraper[00m$ 

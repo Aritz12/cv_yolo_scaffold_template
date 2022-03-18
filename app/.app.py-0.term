@@ -42,4 +42,4 @@ Traceback (most recent call last):
   File "/projects/627f8f3a-4af4-406b-a539-831119806449/cv_yolo_scaffold_template/app/app.py", line 3, in <module>
     app = Flask(name)
 NameError: name 'name' is not defined
-(cv_basketball_py38) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ (base) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ 
+(cv_basketball_py38) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ (base) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ (base) ]0;~/cv_yolo_scaffold_template/app[01;34m~/cv_yolo_scaffold_template/app[00m$ 

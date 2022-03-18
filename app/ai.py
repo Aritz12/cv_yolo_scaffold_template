@@ -122,7 +122,8 @@ def yolo_save_img(image, class_ids, boxes, labels, confidences, colors, file_pat
     """Save a image with bounding boxes
     
     Args:
-    
+        image ():
+        
     Returns:
         <<image (data type): image with bounding boxes>>
     """

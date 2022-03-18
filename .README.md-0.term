@@ -18,4 +18,50 @@ Untracked files:
 	[31mapp/app.py[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ git add -A[K[K[K[K[K[K[K[K[K[Kgit add -
+(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ git add -A[K[K[K[K[K[K[K[K[K[Kgit add -A
+(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ git commit - m[K[Km ""u"p"d"a"t"e"d" "r"e"a"d" "m"e"[C
+[main 338d90d] updated read me
+ 8 files changed, 390 insertions(+)
+ create mode 100644 .README.md-0.term
+ create mode 100644 app/.app.py-0-python3.term
+ create mode 100644 app/.app.py-0.term
+ create mode 100644 app/__pycache__/app.cpython-38.pyc
+ create mode 100644 app/app.py
+(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   .README.md-0.term[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ gitgit[K[K[K[K[K[Kgit[K[K[Kclaer[K[K[Kear
+[H[J(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ git push
+Username for 'https://github.com': aritzschube@gmail/c  . .cp o om
+Password for 'https://aritzschube@gmail.com@github.com': 
+Enumerating objects: 19, done.
+Counting objects:   5% (1/18)Counting objects:  11% (2/18)Counting objects:  16% (3/18)Counting objects:  22% (4/18)Counting objects:  27% (5/18)Counting objects:  33% (6/18)Counting objects:  38% (7/18)Counting objects:  44% (8/18)Counting objects:  50% (9/18)Counting objects:  55% (10/18)Counting objects:  61% (11/18)Counting objects:  66% (12/18)Counting objects:  72% (13/18)Counting objects:  77% (14/18)Counting objects:  83% (15/18)Counting objects:  88% (16/18)Counting objects:  94% (17/18)Counting objects: 100% (18/18)Counting objects: 100% (18/18), done.
+Delta compression using up to 8 threads
+Compressing objects:   8% (1/12)Compressing objects:  16% (2/12)Compressing objects:  25% (3/12)Compressing objects:  33% (4/12)Compressing objects:  41% (5/12)Compressing objects:  50% (6/12)Compressing objects:  58% (7/12)Compressing objects:  66% (8/12)Compressing objects:  75% (9/12)Compressing objects:  83% (10/12)Compressing objects:  91% (11/12)Compressing objects: 100% (12/12)Compressing objects: 100% (12/12), done.
+Writing objects:   7% (1/13)Writing objects:  15% (2/13)Writing objects:  23% (3/13)Writing objects:  30% (4/13)Writing objects:  38% (5/13)Writing objects:  46% (6/13)Writing objects:  53% (7/13)Writing objects:  61% (8/13)Writing objects:  69% (9/13)Writing objects:  76% (10/13)Writing objects:  84% (11/13)Writing objects:  92% (12/13)Writing objects: 100% (13/13)Writing objects: 100% (13/13), 37.80 KiB | 6.30 MiB/s, done.
+Total 13 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/Aritz12/cv_yolo_scaffold_template.git
+   2770597..338d90d  main -> main
+(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ git add -A[K[K[K[K[K[K[K[K[K[Kgit stat[K[K[K[Kadd[K[K[Kstatus
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   .README.md-0.term[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+(base) ]0;~/cv_yolo_scaffold_template[01;34m~/cv_yolo_scaffold_template[00m$ 
